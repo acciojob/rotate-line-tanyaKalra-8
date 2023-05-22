@@ -3,7 +3,7 @@
 	width: 200px;
 	height: 2px;
 	background-color: black;
-	animation: rotate 10s linear
+	animation: rotate 5s linear infinite;
 }
 .container{
 	width: 500px;
